@@ -1,4 +1,4 @@
-== README
+# README
 
 This program encrypts and decrypts a 100 character text using Cesar encryption algorithm.
 
